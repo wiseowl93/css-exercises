@@ -1,4 +1,5 @@
 .container {
+  display: flex;
   background: dodgerblue;
   border: 4px solid midnightblue;
   width: 400px;
@@ -12,4 +13,5 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+  margin: auto;
 }
